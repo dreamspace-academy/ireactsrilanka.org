@@ -1,5 +1,5 @@
 on:
-  [push, workflow_dispatch]:
+  [push]:
       branches:
         - dev
 name: 🚀 Deploy website on push
