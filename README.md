@@ -1,4 +1,4 @@
-# ireactsrilanka.org
+# ireact.lk
 
 ## CONTRIBUTORS
 
